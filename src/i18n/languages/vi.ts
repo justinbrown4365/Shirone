@@ -155,6 +155,16 @@ export const vi: Translation = {
 
 	[Key.tags]: "Thẻ",
 	[Key.categories]: "Danh mục",
+	[Key.series]: "Loạt bài",
+	[Key.seriesCount]: "loạt bài",
+	[Key.seriesCounts]: "loạt bài",
+	[Key.seriesStatusOngoing]: "Đang tiếp tục",
+	[Key.seriesStatusCompleted]: "Đã hoàn thành",
+	[Key.seriesPartOf]: "Bài viết này thuộc loạt bài",
+	[Key.seriesPart]: "Phần {index} / {total}",
+	[Key.seriesPrevInSeries]: "Bài trước trong loạt bài",
+	[Key.seriesNextInSeries]: "Bài tiếp theo trong loạt bài",
+	[Key.seriesViewAll]: "Xem tất cả loạt bài",
 	[Key.recentPosts]: "Bài viết mới nhất",
 	[Key.tableOfContents]: "Mục lục",
 	[Key.formulaScrollable]: "Công thức có thể cuộn ngang",
@@ -169,6 +179,7 @@ export const vi: Translation = {
 	[Key.announcementClose]: "Đóng thông báo",
 
 	[Key.comments]: "Bình luận",
+	[Key.commentsEditor]: "Nội dung bình luận",
 	[Key.commentsLoading]: "Đang tải bình luận...",
 	[Key.commentsLoadFailed]: "Không thể tải bình luận",
 	[Key.commentsRequiresJavaScript]: "Bình luận yêu cầu JavaScript để hiển thị",
@@ -238,7 +249,7 @@ export const vi: Translation = {
 		"Tự động phát đã bị chặn. Nhấn nút phát để bắt đầu.",
 	[Key.musicErrorInvalidTrack]: "Bài hát này không hợp lệ.",
 
-	[Key.themeColor]: "Theme Color",
+	[Key.themeColor]: "Màu chủ đề",
 	[Key.colorStyle]: "Phong cách màu",
 	[Key.colorSpec]: "Đặc tả màu",
 

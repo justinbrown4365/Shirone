@@ -145,6 +145,16 @@ export const zh_CN: Translation = {
 
 	[Key.tags]: "标签",
 	[Key.categories]: "分类",
+	[Key.series]: "系列",
+	[Key.seriesCount]: "个系列",
+	[Key.seriesCounts]: "个系列",
+	[Key.seriesStatusOngoing]: "连载中",
+	[Key.seriesStatusCompleted]: "已完结",
+	[Key.seriesPartOf]: "本文属于系列",
+	[Key.seriesPart]: "第 {index} 篇，共 {total} 篇",
+	[Key.seriesPrevInSeries]: "系列内上一篇",
+	[Key.seriesNextInSeries]: "系列内下一篇",
+	[Key.seriesViewAll]: "查看全部系列",
 	[Key.recentPosts]: "最新文章",
 	[Key.tableOfContents]: "文章目录",
 	[Key.formulaScrollable]: "可横向滚动的公式",
@@ -159,6 +169,7 @@ export const zh_CN: Translation = {
 	[Key.announcementClose]: "关闭公告",
 
 	[Key.comments]: "评论",
+	[Key.commentsEditor]: "评论内容",
 	[Key.commentsLoading]: "正在加载评论...",
 	[Key.commentsLoadFailed]: "评论加载失败",
 	[Key.commentsRequiresJavaScript]: "评论区需要启用 JavaScript 才能显示",
@@ -227,7 +238,7 @@ export const zh_CN: Translation = {
 	[Key.musicErrorAutoplayBlocked]: "自动播放受限，请点击播放按钮开始",
 	[Key.musicErrorInvalidTrack]: "歌曲信息无效",
 
-	[Key.themeColor]: "Theme Color",
+	[Key.themeColor]: "主题色",
 	[Key.colorStyle]: "配色风格",
 	[Key.colorSpec]: "配色规范",
 

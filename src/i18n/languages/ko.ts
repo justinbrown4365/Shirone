@@ -151,6 +151,16 @@ export const ko: Translation = {
 
 	[Key.tags]: "태그",
 	[Key.categories]: "카테고리",
+	[Key.series]: "시리즈",
+	[Key.seriesCount]: "시리즈",
+	[Key.seriesCounts]: "시리즈",
+	[Key.seriesStatusOngoing]: "연재 중",
+	[Key.seriesStatusCompleted]: "완결",
+	[Key.seriesPartOf]: "이 글은 시리즈의 일부입니다",
+	[Key.seriesPart]: "전체 {total}편 중 {index}편",
+	[Key.seriesPrevInSeries]: "시리즈 내 이전 글",
+	[Key.seriesNextInSeries]: "시리즈 내 다음 글",
+	[Key.seriesViewAll]: "모든 시리즈 보기",
 	[Key.recentPosts]: "최근 게시물",
 	[Key.tableOfContents]: "목차",
 	[Key.formulaScrollable]: "가로로 스크롤 가능한 수식",
@@ -165,6 +175,7 @@ export const ko: Translation = {
 	[Key.announcementClose]: "공지 닫기",
 
 	[Key.comments]: "댓글",
+	[Key.commentsEditor]: "댓글 내용",
 	[Key.commentsLoading]: "댓글을 불러오는 중...",
 	[Key.commentsLoadFailed]: "댓글을 불러오지 못했습니다",
 	[Key.commentsRequiresJavaScript]:
@@ -235,7 +246,7 @@ export const ko: Translation = {
 		"자동 재생이 차단되었습니다. 재생 버튼을 눌러 시작하세요.",
 	[Key.musicErrorInvalidTrack]: "곡 정보가 올바르지 않습니다.",
 
-	[Key.themeColor]: "Theme Color",
+	[Key.themeColor]: "테마 색상",
 	[Key.colorStyle]: "색상 스타일",
 	[Key.colorSpec]: "색상 규격",
 

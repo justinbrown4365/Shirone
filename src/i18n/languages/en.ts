@@ -153,6 +153,16 @@ export const en: Translation = {
 
 	[Key.tags]: "Tags",
 	[Key.categories]: "Categories",
+	[Key.series]: "Series",
+	[Key.seriesCount]: "series",
+	[Key.seriesCounts]: "series",
+	[Key.seriesStatusOngoing]: "Ongoing",
+	[Key.seriesStatusCompleted]: "Completed",
+	[Key.seriesPartOf]: "This post is part of the series",
+	[Key.seriesPart]: "Part {index} of {total}",
+	[Key.seriesPrevInSeries]: "Previous in series",
+	[Key.seriesNextInSeries]: "Next in series",
+	[Key.seriesViewAll]: "View all series",
 	[Key.recentPosts]: "Recent Posts",
 	[Key.tableOfContents]: "Table of Contents",
 	[Key.formulaScrollable]: "Horizontally scrollable formula",
@@ -167,6 +177,7 @@ export const en: Translation = {
 	[Key.announcementClose]: "Close Announcement",
 
 	[Key.comments]: "Comments",
+	[Key.commentsEditor]: "Comment content",
 	[Key.commentsLoading]: "Loading comments...",
 	[Key.commentsLoadFailed]: "Failed to load comments.",
 	[Key.commentsRequiresJavaScript]:

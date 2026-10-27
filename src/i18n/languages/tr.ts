@@ -154,6 +154,16 @@ export const tr: Translation = {
 
 	[Key.tags]: "Taglar",
 	[Key.categories]: "Katagoriler",
+	[Key.series]: "Seri",
+	[Key.seriesCount]: "seri",
+	[Key.seriesCounts]: "seri",
+	[Key.seriesStatusOngoing]: "Devam ediyor",
+	[Key.seriesStatusCompleted]: "Tamamlandı",
+	[Key.seriesPartOf]: "Bu yazı serinin bir parçası",
+	[Key.seriesPart]: "{total} bölümün {index}. bölümü",
+	[Key.seriesPrevInSeries]: "Seride önceki",
+	[Key.seriesNextInSeries]: "Seride sonraki",
+	[Key.seriesViewAll]: "Tüm serileri görüntüle",
 	[Key.recentPosts]: "Son Paylaşımlar",
 	[Key.tableOfContents]: "İçindekiler",
 	[Key.formulaScrollable]: "Yatay kaydırılabilir formül",
@@ -168,6 +178,7 @@ export const tr: Translation = {
 	[Key.announcementClose]: "Duyuruyu Kapat",
 
 	[Key.comments]: "Yorumlar",
+	[Key.commentsEditor]: "Yorum içeriği",
 	[Key.commentsLoading]: "Yorumlar yükleniyor...",
 	[Key.commentsLoadFailed]: "Yorumlar yüklenemedi",
 	[Key.commentsRequiresJavaScript]:
@@ -238,7 +249,7 @@ export const tr: Translation = {
 		"Otomatik oynatma engellendi. Başlatmak için oynat düğmesine basın.",
 	[Key.musicErrorInvalidTrack]: "Bu parça geçersiz.",
 
-	[Key.themeColor]: "Theme Color",
+	[Key.themeColor]: "Tema Rengi",
 	[Key.colorStyle]: "Renk Stili",
 	[Key.colorSpec]: "Renk Spesifikasyonu",
 

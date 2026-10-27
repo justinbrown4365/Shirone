@@ -145,6 +145,16 @@ export const zh_TW: Translation = {
 
 	[Key.tags]: "標籤",
 	[Key.categories]: "分類",
+	[Key.series]: "系列",
+	[Key.seriesCount]: "個系列",
+	[Key.seriesCounts]: "個系列",
+	[Key.seriesStatusOngoing]: "連載中",
+	[Key.seriesStatusCompleted]: "已完結",
+	[Key.seriesPartOf]: "本文屬於系列",
+	[Key.seriesPart]: "第 {index} 篇，共 {total} 篇",
+	[Key.seriesPrevInSeries]: "系列內上一篇",
+	[Key.seriesNextInSeries]: "系列內下一篇",
+	[Key.seriesViewAll]: "查看全部系列",
 	[Key.recentPosts]: "最新文章",
 	[Key.tableOfContents]: "文章目錄",
 	[Key.formulaScrollable]: "可橫向捲動的公式",
@@ -159,6 +169,7 @@ export const zh_TW: Translation = {
 	[Key.announcementClose]: "關閉公告",
 
 	[Key.comments]: "評論",
+	[Key.commentsEditor]: "評論內容",
 	[Key.commentsLoading]: "正在載入評論...",
 	[Key.commentsLoadFailed]: "評論載入失敗",
 	[Key.commentsRequiresJavaScript]: "評論區需要啟用 JavaScript 才能顯示",
@@ -227,7 +238,7 @@ export const zh_TW: Translation = {
 	[Key.musicErrorAutoplayBlocked]: "自動播放受到限制，請點擊播放按鈕開始",
 	[Key.musicErrorInvalidTrack]: "歌曲資訊無效",
 
-	[Key.themeColor]: "Theme Color",
+	[Key.themeColor]: "主題色",
 	[Key.colorStyle]: "配色風格",
 	[Key.colorSpec]: "配色規範",
 

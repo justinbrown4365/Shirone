@@ -154,6 +154,16 @@ export const es: Translation = {
 
 	[Key.tags]: "Etiquetas",
 	[Key.categories]: "Categorías",
+	[Key.series]: "Series",
+	[Key.seriesCount]: "serie",
+	[Key.seriesCounts]: "series",
+	[Key.seriesStatusOngoing]: "En curso",
+	[Key.seriesStatusCompleted]: "Completado",
+	[Key.seriesPartOf]: "Esta publicación es parte de la serie",
+	[Key.seriesPart]: "Parte {index} de {total}",
+	[Key.seriesPrevInSeries]: "Anterior en la serie",
+	[Key.seriesNextInSeries]: "Siguiente en la serie",
+	[Key.seriesViewAll]: "Ver todas las series",
 	[Key.recentPosts]: "Publicaciones recientes",
 	[Key.tableOfContents]: "Tabla de contenidos",
 	[Key.formulaScrollable]: "Fórmula con desplazamiento horizontal",
@@ -168,6 +178,7 @@ export const es: Translation = {
 	[Key.announcementClose]: "Cerrar anuncio",
 
 	[Key.comments]: "Comentarios",
+	[Key.commentsEditor]: "Contenido del comentario",
 	[Key.commentsLoading]: "Cargando comentarios...",
 	[Key.commentsLoadFailed]: "Error al cargar comentarios",
 	[Key.commentsRequiresJavaScript]:
@@ -238,7 +249,7 @@ export const es: Translation = {
 		"La reproducción automática está bloqueada. Pulsa reproducir para comenzar.",
 	[Key.musicErrorInvalidTrack]: "Esta pista no es válida.",
 
-	[Key.themeColor]: "Theme Color",
+	[Key.themeColor]: "Color del tema",
 	[Key.colorStyle]: "Estilo de color",
 	[Key.colorSpec]: "Especificación",
 

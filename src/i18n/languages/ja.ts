@@ -151,6 +151,16 @@ export const ja: Translation = {
 
 	[Key.tags]: "タグ",
 	[Key.categories]: "カテゴリ",
+	[Key.series]: "シリーズ",
+	[Key.seriesCount]: "シリーズ",
+	[Key.seriesCounts]: "シリーズ",
+	[Key.seriesStatusOngoing]: "連載中",
+	[Key.seriesStatusCompleted]: "完結",
+	[Key.seriesPartOf]: "この記事はシリーズの一部です",
+	[Key.seriesPart]: "全 {total} 話中 {index} 話目",
+	[Key.seriesPrevInSeries]: "シリーズ内の前の記事",
+	[Key.seriesNextInSeries]: "シリーズ内の次の記事",
+	[Key.seriesViewAll]: "すべてのシリーズを見る",
 	[Key.recentPosts]: "最近の投稿",
 	[Key.tableOfContents]: "目次",
 	[Key.formulaScrollable]: "横スクロール可能な数式",
@@ -165,6 +175,7 @@ export const ja: Translation = {
 	[Key.announcementClose]: "告知を閉じる",
 
 	[Key.comments]: "コメント",
+	[Key.commentsEditor]: "コメント本文",
 	[Key.commentsLoading]: "コメントを読み込み中...",
 	[Key.commentsLoadFailed]: "コメントの読み込みに失敗しました",
 	[Key.commentsRequiresJavaScript]:
@@ -235,7 +246,7 @@ export const ja: Translation = {
 		"自動再生がブロックされました。再生ボタンを押してください。",
 	[Key.musicErrorInvalidTrack]: "曲の情報が無効です。",
 
-	[Key.themeColor]: "Theme Color",
+	[Key.themeColor]: "テーマカラー",
 	[Key.colorStyle]: "配色スタイル",
 	[Key.colorSpec]: "配色仕様",
 

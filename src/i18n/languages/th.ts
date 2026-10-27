@@ -143,6 +143,16 @@ export const th: Translation = {
 
 	[Key.tags]: "ป้ายกำกับ",
 	[Key.categories]: "หมวดหมู่",
+	[Key.series]: "ซีรีส์",
+	[Key.seriesCount]: "ซีรีส์",
+	[Key.seriesCounts]: "ซีรีส์",
+	[Key.seriesStatusOngoing]: "กำลังดำเนินอยู่",
+	[Key.seriesStatusCompleted]: "เสร็จสมบูรณ์",
+	[Key.seriesPartOf]: "บทความนี้เป็นส่วนหนึ่งของซีรีส์",
+	[Key.seriesPart]: "ตอนที่ {index} จาก {total}",
+	[Key.seriesPrevInSeries]: "ตอนก่อนหน้าในซีรีส์",
+	[Key.seriesNextInSeries]: "ตอนถัดไปในซีรีส์",
+	[Key.seriesViewAll]: "ดูซีรีส์ทั้งหมด",
 	[Key.recentPosts]: "โพสต์ล่าสุด",
 	[Key.tableOfContents]: "สารบัญ",
 	[Key.formulaScrollable]: "สูตรที่เลื่อนในแนวนอนได้",
@@ -157,6 +167,7 @@ export const th: Translation = {
 	[Key.announcementClose]: "ปิดประกาศ",
 
 	[Key.comments]: "ความคิดเห็น",
+	[Key.commentsEditor]: "เนื้อหาความคิดเห็น",
 	[Key.commentsLoading]: "กำลังโหลดความคิดเห็น...",
 	[Key.commentsLoadFailed]: "โหลดความคิดเห็นไม่สำเร็จ",
 	[Key.commentsRequiresJavaScript]:
@@ -226,7 +237,7 @@ export const th: Translation = {
 	[Key.musicErrorAutoplayBlocked]: "ระบบบล็อกการเล่นอัตโนมัติ กดปุ่มเล่นเพื่อเริ่ม",
 	[Key.musicErrorInvalidTrack]: "ข้อมูลเพลงนี้ไม่ถูกต้อง",
 
-	[Key.themeColor]: "Theme Color",
+	[Key.themeColor]: "สีธีม",
 	[Key.colorStyle]: "สไตล์สี",
 	[Key.colorSpec]: "สเปกสี",
 
